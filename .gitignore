@@ -1,0 +1,6 @@
+# Real credentials — never commit this. Copy .env.example to .env instead.
+.env
+
+# Local editor/OS clutter
+.DS_Store
+Thumbs.db
